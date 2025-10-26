@@ -1,5 +1,6 @@
 # 24-537665-TK-59611_Tsaqif-Jalaluddin-Ahmad_Magang-GMRT
 2D Forward Kinematics dan Inverse Kinematics berbasis Python
+**File Utama adalah FK_IK_CaseDay2.py , Forward_Kinematic_CaseStudy.py adalah file tugas di pertemuan magang**
 
 Program python ini akan menghitung matrix transformasi dari Forward Kinematic di bidang 2 dimensi (x-y).
 Solusi berupa titik akhir posisi ujung tangan robot pada konteks ini akan terdapat di matriks.
