@@ -1,5 +1,5 @@
 # 24-537665-TK-59611_Tsaqif-Jalaluddin-Ahmad_Magang-GMRT
-2D Forward Kinematics dan Inverse Kinematics berbasis Python
+2D Forward Kinematics dan Inverse Kinematics berbasis Python, 
 **File Utama adalah FK_IK_CaseDay2.py , Forward_Kinematic_CaseStudy.py adalah file tugas di pertemuan magang**
 
 Program python ini akan menghitung matrix transformasi dari Forward Kinematic di bidang 2 dimensi (x-y).
@@ -14,4 +14,5 @@ Opsi pada program ini terbatas pada **2 atau 3 degrees of freedom untuk forward 
 **2 degrees of freedom** saja untuk inverse kinematic bidang 2 dimensi
 
 File perhitungan rumus yang digunakan pada program terdapat di file **Perhitungan Rumus FK_IK.pdf**
+
 Files screenshot beberapa contoh output terdapat di bagian **contoh_hasil**
