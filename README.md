@@ -9,5 +9,8 @@ Selain itu melalui library matplotlib, akan ditampilkan **ilustrasi kondisi robo
 Sementara pada bagian inverse kinematics, program akan memberikan luaran berupa **sudut solusi dari titik target** yang menjadi masukan,
 akan digambarkan pula **plot dari 2 solusi target titik.**
 
-Opsi pada program ini terbatas pada 2 atau 3 degrees of freedom untuk forward kinematic bidang 2 dimensi (X-Y) dan
-2 degrees of freedom saja untuk inver
+Opsi pada program ini terbatas pada **2 atau 3 degrees of freedom untuk forward kinematic bidang 2 dimensi (X-Y)** dan
+**2 degrees of freedom** saja untuk inverse kinematic bidang 2 dimensi
+
+File perhitungan rumus yang digunakan pada program terdapat di file **Perhitungan Rumus FK_IK.pdf**
+Files screenshot beberapa contoh output terdapat di bagian **contoh_hasil**
