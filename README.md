@@ -18,6 +18,9 @@ File perhitungan rumus yang digunakan pada program terdapat di file **Perhitunga
 Files screenshot beberapa contoh output terdapat di bagian **contoh_hasil**
 
 Link beberapa dokumentasi yang digunakan:
+
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html   Docum matplotlib plot
+
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html Docum Legend matplotlib
+
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html   Docum text matplotlib
